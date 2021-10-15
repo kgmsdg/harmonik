@@ -1,0 +1,2 @@
+# harmonik
+Harmonik serinin bulunması.
